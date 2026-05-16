@@ -1,74 +1,46 @@
-# Contributor Covenant Code of Conduct
+# 貢獻者公約行為準則
 
-## Our Pledge
+## 我們的承諾
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+為了營造一個開放且溫馨的環境，我們作為貢獻者與維護者，承諾讓參與我們的專案與社群成為每個人都能享受的無騷擾體驗，無論年齡、體型、殘障、族裔、性別認同與表達、經驗水平、國籍、個人外表、種族、宗教或性認同與取向如何。
 
-## Our Standards
+## 我們的標準
 
-Examples of behavior that contributes to creating a positive environment
-include:
+有助於營造積極環境的行為範例包括：
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* 使用溫馨且包容的語言
+* 尊重不同的觀點與經驗
+* 優雅地接受建設性的批評
+* 專注於對社群最有利的事情
+* 對其他社群成員展現同理心
 
-Examples of unacceptable behavior by participants include:
+參與者不可接受的行為範例包括：
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as physical or electronic
-  address, without explicit permission
-* Other conduct that could reasonably be considered inappropriate in a
-  professional setting
+* 使用性化的語言或圖像，以及不受歡迎的性關注或挑逗
+* 網路釣魚 (Trolling)、侮辱/貶低性的評論，以及人身或政治攻擊
+* 公開或私下的騷擾
+* 未經明確許可發佈他人的私密信息，如物理或電子地址
+* 其他在專業場合可被合理視為不當的行為
 
-## Our Responsibilities
+## 我們的責任
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+專案維護者負責澄清可接受行為的標準，並被期望針對任何不可接受行為的情況採取適當且公平的糾正措施。
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+專案維護者有權利與責任刪除、編輯或拒絕與本行為準則不符的評論、提交 (Commits)、程式碼、Wiki 編輯、Issues 以及其他貢獻，或對其認為不當、具威脅性、攻擊性或有害的其他行為暫時或永久禁止任何貢獻者參與。
 
-## Scope
+## 範圍
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+本行為準則既適用於專案空間內，也適用於個人代表專案或其社群的公共空間。代表專案或社群的範例包括使用官方專案電子郵件地址、通過官方社群媒體帳號發佈訊息，或在線上或線下活動中擔任指定的代表。專案的代表性可由專案維護者進一步定義與澄清。
 
-## Enforcement
+## 執行
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at sindresorhus@gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+濫用、騷擾或其他不可接受的行為可通過聯繫專案團隊 sindresorhus@gmail.com 進行舉報。所有投訴都將被審查與調查，並根據情況做出被認為必要且適當的答覆。專案團隊有義務對舉報人保持保密。具體執行政策的進一步細節可能會單獨發佈。
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+不真誠地遵守或執行本行為準則的專案維護者，可能會面臨由專案領導層其他成員確定的暫時或永久性後果。
 
-## Attribution
+## 署名
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [https://contributor-covenant.org/version/1/4][version]
+本行為準則改編自 [Contributor Covenant][homepage] 1.4 版本，詳見 [https://contributor-covenant.org/version/1/4][version]
 
 [homepage]: https://contributor-covenant.org
 [version]: https://contributor-covenant.org/version/1/4/
